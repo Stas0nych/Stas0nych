@@ -41,7 +41,7 @@ My curiosity and interest to details driven me into the field of Software Qualit
 
 ---
 
-### 💾 Working with data (MySQL):
+### 💾 Working with data (MySQL - basic knowledge):
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
